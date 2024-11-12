@@ -32,6 +32,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="text"
+            android:enabled="false"
+            android:saveEnabled="false"
             android:text="0" />
 
         <EditText
@@ -40,6 +42,8 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="text"
+            android:enabled="false"
+            android:saveEnabled="false"
             android:text="0" />
 
     </LinearLayout>
